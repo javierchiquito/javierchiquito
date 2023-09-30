@@ -1,8 +1,7 @@
-### :wave: Hi, I'm Javier
-
+## 😃 Hola, soy Javier.
+![portada](https://cdn.vectorstock.com/i/preview-1x/08/82/software-developer-character-programmer-vector-26310882.jpg)
 <!--
 **javierchiquito/javierchiquito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,3 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Contactame en
+- [Linkedin](https://www.linkedin.com/in/javier-chiquito-avell%C3%A1n-2117821aa/)
+- [Portafolio personal](https://google.com)
