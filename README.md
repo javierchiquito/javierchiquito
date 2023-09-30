@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Contactame en
-- [Linkedin](https://www.linkedin.com/in/javier-chiquito-avell%C3%A1n-2117821aa/)
-- [Portafolio personal](https://google.com)
+## Visit me
+- Sígueme en [Linkedin](https://www.linkedin.com/in/javier-chiquito-avell%C3%A1n-2117821aa/)
+- Visita mi [Portafolio personal](https://google.com)
