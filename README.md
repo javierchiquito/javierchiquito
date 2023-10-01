@@ -1,5 +1,6 @@
 ## 😃 Hola, soy Javier.
-![portada](https://cdn.vectorstock.com/i/preview-1x/08/82/software-developer-character-programmer-vector-26310882.jpg)
+<img style="width: 100%; object-fit: contain" src="https://cdn.vectorstock.com/i/preview-1x/08/82/software-developer-character-programmer-vector-26310882.jpg" />
+<br>
 <!--
 **javierchiquito/javierchiquito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
@@ -13,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Visit me
+# Sobre mí
+- Software developer
+<!--
 - Sígueme en [Linkedin](https://www.linkedin.com/in/javier-chiquito-avell%C3%A1n-2117821aa/)
 - Visita mi [Portafolio personal](https://google.com)
+-->
