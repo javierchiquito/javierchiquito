@@ -43,8 +43,8 @@ public class Greeting {
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://)
 
 ## Canales de contacto
-- Sígueme en [Linkedin](https://https://www.linkedin.com/in/javier-chiquito-avell%C3%A1n-2117821aa/) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://)
-- Escribeme a [jacha067@gmail.com](https://) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://)
+- Sígueme en [Linkedin](https://https://www.linkedin.com/in/javier-chiquito-avell%C3%A1n-2117821aa/)
+- Escribeme a [jacha067@gmail.com](https://)
 
 
 <!--
