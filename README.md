@@ -45,8 +45,4 @@ public class Greeting {
 ## Canales de contacto
 - Sígueme en [Linkedin](https://https://www.linkedin.com/in/javier-chiquito-avell%C3%A1n-2117821aa/)
 - Escribeme a [jacha067@gmail.com](https://)
-
-
-<!--
-- Visita mi [Portafolio personal](https://google.com)
--->
+- Revisa mi trabajo  en mi [Portafolio](https://)
