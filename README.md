@@ -3,9 +3,8 @@ package javierchiquito;
 
 public class Greeting {
     void main(String... args) {
-        System.out.println("=====  Hola Mundo!.                         =====");
-        System.out.println("=====  Mi nombre es Javier,                 =====");
-        System.out.println("=====  soy ingeniero de software fullstack. =====");
+        System.out.println("=====  Hola, mi nombre es Javier.                    =====");
+        System.out.println("=====  Ingeniero de software fullstack en Eclipsoft. =====");
     }
 }
 ~~~
